@@ -1,4 +1,5 @@
 # week6_lab.py
+# Lab 6: conditionals, loops, and dictionariesS
 # Author: Evan Russo
 import os
 
